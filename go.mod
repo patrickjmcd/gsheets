@@ -1,4 +1,4 @@
-module github.com/patrickjmcd/google-sheets-go
+module github.com/patrickjmcd/gsheets
 
 go 1.22.5
 
