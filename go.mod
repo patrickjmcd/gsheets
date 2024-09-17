@@ -4,7 +4,7 @@ go 1.22.5
 
 require (
 	github.com/rs/zerolog v1.33.0
-	golang.org/x/oauth2 v0.22.0
+	golang.org/x/oauth2 v0.23.0
 	google.golang.org/api v0.191.0
 )
 
