@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/patrickjmcd/gsheets/compare/v1.0.0...v1.1.0) (2024-09-19)
+
+
+### Features
+
+* adds wrappers for reading and writing ([44f4b65](https://github.com/patrickjmcd/gsheets/commit/44f4b657ec8a55412d2f978a15d9d6d648f3796d))
+
 ## 1.0.0 (2024-09-19)
 
 
