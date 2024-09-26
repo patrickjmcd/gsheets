@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/patrickjmcd/gsheets/compare/v1.1.0...v1.1.1) (2024-09-26)
+
+
+### Bug Fixes
+
+* **deps:** update module google.golang.org/api to v0.199.0 ([4c61882](https://github.com/patrickjmcd/gsheets/commit/4c61882ede39624c3deee40d6308519920e22d5d))
+
 ## [1.1.0](https://github.com/patrickjmcd/gsheets/compare/v1.0.0...v1.1.0) (2024-09-19)
 
 
