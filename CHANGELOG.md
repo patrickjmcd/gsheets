@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.1](https://github.com/patrickjmcd/gsheets/compare/v1.1.0...v1.1.1) (2026-10-19)
+
+
+### Bug Fixes
+
+* **deps:** update go non-major dependencies ([#19](https://github.com/patrickjmcd/gsheets/issues/19)) ([91883ce](https://github.com/patrickjmcd/gsheets/commit/91883ce496d2e9d260e14c387ed306fc7de8a3aa))
+* **deps:** update module google.golang.org/api to v0.199.0 ([a117cb2](https://github.com/patrickjmcd/gsheets/commit/a117cb29b7665a1af26b1dcce770998012af85e1))
+* **deps:** update module google.golang.org/api to v0.199.0 ([4c61882](https://github.com/patrickjmcd/gsheets/commit/4c61882ede39624c3deee40d6308519920e22d5d))
+* **deps:** update module google.golang.org/api to v0.201.0 ([7a050ca](https://github.com/patrickjmcd/gsheets/commit/7a050cae400da10714711be2f32c2d8a36039e20))
+
 ## [1.1.0](https://github.com/patrickjmcd/gsheets/compare/v1.0.0...v1.1.0) (2024-09-19)
 
 
